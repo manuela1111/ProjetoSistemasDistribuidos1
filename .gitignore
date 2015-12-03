@@ -1,43 +1,45 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+#Outros diretórios
+.metadata/
+RemoteSystemsTempFiles/
 
-# Folder config file
-Desktop.ini
+#Arquivos/Diretorios C++
+pocoEscuro/.settings/
+pocoEscuro/Debug/
+pocoEscuro/Release/
+pocoEscuro/.project
+pocoEscuro/.cproject
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+#Arquivos/Diretorios Arduino
 
-# Windows shortcuts
-*.lnk
 
-# =========================
-# Operating System Files
-# =========================
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-# OSX
-# =========================
+# Precompiled Headers
+*.gch
+*.pch
 
-.DS_Store
-.AppleDouble
-.LSOverride
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
-# Thumbnails
-._*
+# Fortran module files
+*.mod
 
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# Executables
+*.exe
+*.out
+*.app
+/SomaRmi/nbproject/private/
+/SomaRmi/build/
