@@ -1,7 +1,9 @@
+package SomaRmi;
+
 /*##############################################################################
-  #   Programa que escreve um arquivo no disco a partir de entradas do usuário #
+  #   Programa que escreve um arquivo no disco a partir de entradas do usuï¿½rio #
   ##############################################################################
-  #                Bruno Silvério Costa    -   FTC  -  29/03/2007              #
+  #                Bruno Silvï¿½rio Costa    -   FTC  -  29/03/2007              #
   ##############################################################################*/
 import java.io.*;
 import javax.swing.*;

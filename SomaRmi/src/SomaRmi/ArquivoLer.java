@@ -1,7 +1,9 @@
+package SomaRmi;
+
 /*################################################################
-  #   Programa que lê um arquivo no disco e exibe o seu conteúdo #
+  #   Programa que lï¿½ um arquivo no disco e exibe o seu conteï¿½do #
   ################################################################
-  #        Bruno Silvério Costa    -   FTC  -  29/03/2007        #
+  #        Bruno Silvï¿½rio Costa    -   FTC  -  29/03/2007        #
   ################################################################*/
 import java.io.*;
 import javax.swing.*;
@@ -33,7 +35,7 @@ public class ArquivoLer
 		}
 		catch(FileNotFoundException e)
 		{
-			JOptionPane.showMessageDialog(null,"Arquivo não encontrado");
+			JOptionPane.showMessageDialog(null,"Arquivo nï¿½o encontrado");
 			System.exit(1);
 		}
 	}
