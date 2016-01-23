@@ -7,7 +7,7 @@ Disciplina: Sistemas Distribuidos I
 Componentes: Airton Ribeiro
              Cremildo Lima
              Leonardo Aguiar
+             Maiane Salomão
              Manuela Amaral
-             Mayane Salomão
 Entrega 05/01/2016
 
